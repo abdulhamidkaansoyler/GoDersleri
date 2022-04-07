@@ -1,0 +1,14 @@
+{
+  "marka": "AUDI",
+  "fiyat": 850000,
+  "model": "A5 COUPE",
+  "paket": ["FULL","COMFORT","DELUXE"],
+  "özellik": {
+    "klima": true,
+    "jant": 18
+  },
+  "bayisatis": false
+
+
+
+}

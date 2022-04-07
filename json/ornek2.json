@@ -1,0 +1,33 @@
+{
+
+  "universite": "Erciyes Üniversitesi",
+  "bolum": "BM",
+
+  "ogrenciler": [
+    {
+      "ogrNo": 349,
+      "ogrAd": "Abdulhamid Kaan",
+      "ogrSoyad": "Söyler",
+      "hobiler": "Yüzme"
+    },
+    {
+      "ogrNo": 552,
+      "ogrAd": "Serhat",
+      "ogrSoyad": "Çetinkaya",
+      "arkadası": "Tuncay"
+    }
+  ],
+  "dersler": [
+    {
+      "dersNo": 101,
+      "dersAdı": "Lojik"
+    },
+    {
+      "dersNo": 404,
+      "dersAdı": "Veri Yapıları"
+    }
+  ]
+
+
+
+}
